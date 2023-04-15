@@ -1,0 +1,3 @@
+Получить ИД пользователя update.Message.From.ID
+
+ProductsByCategory должен возвращать []Product на уровне сервиса превращать это в строку.
